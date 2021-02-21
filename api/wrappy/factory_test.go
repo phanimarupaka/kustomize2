@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	. "sigs.k8s.io/kustomize/api/internal/wrappy"
+	. "sigs.k8s.io/kustomize/api/wrappy"
 )
 
 func TestHasher(t *testing.T) {
