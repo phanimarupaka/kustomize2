@@ -1,4 +1,4 @@
-module sigs.k8s.io/kustomize/api
+module github.com/phanimarupaka/kustomize2/api
 
 go 1.15
 
